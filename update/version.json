@@ -2,6 +2,6 @@
   "version": "1.0.1",
   "mandatory": false,
   "message": "Nova versão disponível para o INFOMAX PDV.",
-  "download_url": "",
-  "sha256": ""
+  "download_url": "https://github.com/lopesrodrigo1986/pdv-update/releases/download/v1.0.1/INFOMAX_PDV_Setup.exe",
+  "sha256": "9745f712b02ef147a4190e4f5628e52aaa80d0c93419ae6578ab7bbd58c570a2"
 }
